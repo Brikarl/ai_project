@@ -170,6 +170,7 @@ flagged/
 *.pb
 *.pth
 *.pt
+*.pkl
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
